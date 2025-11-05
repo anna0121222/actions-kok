@@ -50,7 +50,7 @@
 
 ## 👨‍💻 담당 업무
 ### 🗂️ 프론트엔드
-<img alt="kok_front_exel" src="https://github.com/user-attachments/assets/07ef4bf3-75f6-43ac-8517-29b88527ffc6" />
+<img alt="kok_front" src="https://github.com/user-attachments/assets/3d606fd3-bba1-4d8a-8960-808768672f05" />
 <br>
 
 ▶ 회원가입
@@ -70,7 +70,7 @@
 <br>
 
 ### 🗂️ 백엔드
-<img alt="kok_back_exel" src="https://github.com/user-attachments/assets/c99bb55e-c9d3-4824-8df4-db4108b2d4d9" />
+<img alt="kok_back" src="https://github.com/user-attachments/assets/76e1105f-3423-4a7b-83d6-6563e439337a" />
 <br>
 
 
