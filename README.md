@@ -1,9 +1,17 @@
-# 콕 KOK
+# 콕 KOK | http://kok-ok.store/member/login
+#### 접속 가능 시간 10:00(AM) ~ 6:00(PM)
+일반 회원 ID/PW: user01@gmail.com/1234 <br>
+기업 회원 ID/PW: kok01@gmail.com/1234 <br><br>
 
-## 일자리 체험 플랫폼
-<br>
+관리자 페이지 - http://kok-ok.store/admin/login <br>
+관리자 ID/PW: admin@gmail.com/1234
+
+<sub> ※ 회원가입은 지양해주시고, 하게 되시더라도 의미 없는 정보로 생성해주시길 바랍니다. </sub>
+
+<br><br>
 
 ## 🔍 기획 의도
+### 일자리 체험 플랫폼
 <img alt="슬라이드2" src="https://github.com/user-attachments/assets/e6a3caee-0e17-4456-a567-f33c622f83ce" />
 <br><br>
 
